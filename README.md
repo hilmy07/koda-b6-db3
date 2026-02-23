@@ -1,3 +1,5 @@
+## QUERY 1<br />
+
 nomor 1<br />
 <img width="913" height="888" alt="image" src="https://github.com/user-attachments/assets/fbec0249-44b2-491d-87ff-b6352ab77506" /><br />
 
@@ -10,6 +12,10 @@ nomor 3<br />
 nomor 4<br />
 <img width="252" height="168" alt="image" src="https://github.com/user-attachments/assets/348cf3bd-7b6e-49f8-baa6-e0635025ccba" />
 
+## QUERY 2<br />
 
+nomor 1<br />
+<img width="1507" height="672" alt="image" src="https://github.com/user-attachments/assets/935d5d1a-e1c4-44fd-bf6b-0ac262b50db8" /><br />
 
-
+nomor 2<br />
+<img width="1570" height="764" alt="image" src="https://github.com/user-attachments/assets/fc0b34c1-8b0a-49a3-8f67-aa0e1f3f60b8" />
